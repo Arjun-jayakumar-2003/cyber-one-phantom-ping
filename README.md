@@ -1,6 +1,6 @@
 # CyberOne PhantomPing
 
-This Python script demonstrates how to send an HTTP request directly to a server's IP address while spoofing the `Host` header to simulate a request to a specific domain. It’s a stealthy technique used to explore virtual host responses — perfect for your cybersecurity learning journey.
+This Python script demonstrates how to send an HTTP request directly to a server's IP address while spoofing the `Host` header to simulate a request to a specific domain. It’s a stealthy technique used to explore virtual host responses — perfect for my cybersecurity learning journey.
 
 ## 🔍 What It Does
 
